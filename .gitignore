@@ -15,6 +15,7 @@ out/
 temp/
 # Support files #
 word*
+jobs/*/out/
 
 ############
 # Packages #
