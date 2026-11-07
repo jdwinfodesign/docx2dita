@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsiwp:result-document xmlns:m="http://www.w3.org/1998/Math/MathML"
+                       xmlns:rsiwp="http://reallysi.com/namespaces/generic-wordprocessing-xml"
+                       href="file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/out/smoke-test.ditamap"
+                       indent="yes"
+                       doctype-public="-//OASIS//DTD DITA BookMap//EN"
+                       doctype-system="bookmap.dtd">
+   <bookmap xtrc="" xml:lang="en-US" isMap="true">
+      <title xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[1]"
+             xtrf="zip:file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/test.docx!/word/document.xml"
+             id="title__Toc412189549">Test Configuration Guide</title>
+      <chapter href="topics/topic_1.dita" xtrc="">
+         <topicmeta xtrc="">
+            <navtitle xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[2]">Getting started</navtitle>
+            <metadata/>
+         </topicmeta>
+         <rsiwp:result-document href="file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/out/topics/topic_1.dita"
+                                doctype-public="-//OASIS//DTD DITA Concept//EN"
+                                doctype-system="concept.dtd">
+            <concept id="topic_1" xtrc="" isTopic="true" xml:lang="en-US">
+               <title xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[2]"
+                      xtrf="zip:file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/test.docx!/word/document.xml">Getting started</title>
+               <titlealts/>
+               <conbody xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[3]">
+                  <p xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[3]"
+                     xtrf="zip:file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/test.docx!/word/document.xml">Blah Blah Blah</p>
+               </conbody>
+            </concept>
+         </rsiwp:result-document>
+         <topicref href="topics/topic_2.dita" xtrc="">
+            <topicmeta xtrc="">
+               <navtitle xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[4]">Task Topic</navtitle>
+               <metadata/>
+            </topicmeta>
+            <rsiwp:result-document href="file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/out/topics/topic_2.dita"
+                                   doctype-public="-//OASIS//DTD DITA Task//EN"
+                                   doctype-system="task.dtd">
+               <task id="topic_2" xtrc="" isTopic="true" xml:lang="en-US">
+                  <title xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[4]"
+                         xtrf="zip:file:/C:/Users/jdwin/docx2dita/jobs/smoke-test/test.docx!/word/document.xml">Task Topic</title>
+                  <titlealts/>
+                  <taskbody xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[5]">
+                     <context xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[5]">
+                        <p xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[5]"
+                           xtrf="">Here is some context.</p>
+                        <p xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[6]"
+                           xtrf=""
+                           outputclass="To">To configure the gadget</p>
+                     </context>
+                     <steps xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[7]">
+                        <step xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[7]">
+                           <cmd xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[7]"
+                                xtrf="">Here is a step.</cmd>
+                           <info xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[8]"
+                                 xtrf="">Here is some info.</info>
+                        </step>
+                        <step xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[9]">
+                           <cmd xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[9]"
+                                xtrf="">Another step.</cmd>
+                           <info xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[10]"
+                                 xtrf="">Another info.</info>
+                        </step>
+                     </steps>
+                     <result xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[11]">
+                        <p xtrc="/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}document[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}body[1]/Q{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p[11]"
+                           xtrf="">Here is the result of this task.</p>
+                     </result>
+                  </taskbody>
+               </task>
+            </rsiwp:result-document>
+         </topicref>
+      </chapter>
+   </bookmap>
+</rsiwp:result-document>

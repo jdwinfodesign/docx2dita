@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap
+  PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap xml:lang="en-US"><title id="title__Toc412189549">Test Configuration Guide</title><chapter href="topics/topic_1.dita"><topicmeta><navtitle>Getting started</navtitle><metadata/></topicmeta><topicref href="topics/topic_2.dita"><topicmeta><navtitle>Task Topic</navtitle><metadata/></topicmeta></topicref></chapter></bookmap>
