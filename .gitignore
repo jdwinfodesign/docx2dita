@@ -13,6 +13,7 @@ dita*/**
 # Output #
 out/
 temp/
+out-baseline/
 
 ############
 # Packages #

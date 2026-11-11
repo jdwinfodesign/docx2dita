@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task
-  PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="topic_2" xml:lang="en-US"><title>Task Topic</title><titlealts/><taskbody><context><p>Here is some context.</p><p outputclass="To">To configure the gadget</p></context><steps><step><cmd>Here is a step.</cmd><info>Here is some info.</info></step><step><cmd>Another step.</cmd><info>Another info.</info></step></steps><result><p>Here is the result of this task.</p></result></taskbody></task>
